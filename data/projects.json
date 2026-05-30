@@ -276,5 +276,78 @@
     },
     "testimonial": null,
     "featured": true
-  }
+  },
+  {
+  "id": 2616,
+  "name": {
+    "en": "Supply and Installation of 62 Street Lamp Posts at Iyappa Nagar Lake",
+    "ta": "ஐயப்ப நகர் ஏரியில் 62 தெருவிளக்கு கம்பங்கள் அமைக்கும் பணி"
+  },
+  "client": {
+    "en": "Greater Chennai Corporation",
+    "ta": "பெருநகர சென்னை மாநகராட்சி"
+  },
+  "department": {
+    "en": "Electrical Department",
+    "ta": "மின்துறை"
+  },
+  "location": {
+    "en": "Iyappa Nagar Lake, Division 187, Zone 14, Chennai",
+    "ta": "ஐயப்ப நகர் ஏரி, பிரிவு 187, மண்டலம் 14, சென்னை"
+  },
+  "value": "₹27.87 Lakhs",
+  "tenderNo": "El.D.C.No.South/2616/2022",
+  "scheme": {
+    "en": "NIRBHAYA Scheme",
+    "ta": "நிர்பயா திட்டம்"
+  },
+  "startDate": "2022-06-10",
+  "endDate": "2022-09-10",
+  "status": "completed",
+  "completion": 100,
+  "category": "street-lights",
+  "description": {
+    "en": "Supply, erection, testing and commissioning of 62 numbers of 6-meter street lamp posts with LED fittings at Iyappa Nagar Lake, Division 187, Zone 14, Chennai under the NIRBHAYA Scheme to improve lighting facilities in public spaces and enhance safety for women.",
+    "ta": "பெண்களின் பாதுகாப்பை மேம்படுத்தும் நோக்கில் நிர்பயா திட்டத்தின் கீழ் சென்னை மண்டலம் 14, பிரிவு 187, ஐயப்ப நகர் ஏரியில் 62 எண் 6 மீட்டர் உயரம் கொண்ட எல்இடி தெருவிளக்கு கம்பங்கள் வழங்குதல், நிறுவுதல், சோதனை செய்தல் மற்றும் இயக்கத்தில் கொண்டு வருதல்."
+  },
+  "scope": {
+    "en": [
+      "Supply of 62 Nos. 6-meter street lamp posts",
+      "Supply of LED street light fittings",
+      "Erection and installation of lamp posts",
+      "Testing and commissioning",
+      "Public space illumination improvement",
+      "Women's safety enhancement under NIRBHAYA Scheme"
+    ],
+    "ta": [
+      "62 எண் 6 மீட்டர் தெருவிளக்கு கம்பங்கள் வழங்குதல்",
+      "எல்இடி தெருவிளக்குகள் வழங்குதல்",
+      "கம்பங்கள் நிறுவுதல்",
+      "சோதனை மற்றும் இயக்கத்தில் கொண்டு வருதல்",
+      "பொது இடங்களில் ஒளி வசதி மேம்படுத்துதல்",
+      "நிர்பயா திட்டத்தின் கீழ் பெண்களின் பாதுகாப்பை மேம்படுத்துதல்"
+    ]
+  },
+  "highlights": {
+    "en": [
+      "Government Infrastructure Project",
+      "NIRBHAYA Scheme",
+      "62 LED Street Lights Installed",
+      "Improved Public Safety"
+    ],
+    "ta": [
+      "அரசு கட்டமைப்பு திட்டம்",
+      "நிர்பயா திட்டம்",
+      "62 எல்இடி தெருவிளக்குகள் நிறுவப்பட்டது",
+      "பொது பாதுகாப்பு மேம்பாடு"
+    ]
+  },
+  "photos": [],
+  "videos": [],
+  "mapCoords": {
+    "lat": null,
+    "lng": null
+  },
+  "testimonial": null
+}
 ]
