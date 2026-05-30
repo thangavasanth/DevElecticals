@@ -1,0 +1,133 @@
+{
+  "company": {
+    "name": "DEV ELECTRICALS",
+    "gst": "33GIGPS1735A1ZJ",
+    "address": {
+      "en": "22/7 Mathiyazhagan Street, Nehru Nagar, Checkpost, Chennai – 600 042, Tamil Nadu, India",
+      "ta": "22/7 மதியழகன் தெரு, நேரு நகர், செக்போஸ்ட், சென்னை – 600 042, தமிழ்நாடு, இந்தியா"
+    },
+    "location": {
+      "en": "Chennai, Tamil Nadu, India",
+      "ta": "சென்னை, தமிழ்நாடு, இந்தியா"
+    },
+    "phone": ["+91 91761 12696"],
+    "email": "nrsendhilkumdar@gmail.com",
+    "mapCoords": { "lat": 13.0674, "lng": 80.2376 },
+    "mapLink": "https://maps.google.com/?q=13.0674,80.2376"
+  },
+  "tagline": {
+    "en": "Powering Infrastructure. Illuminating Communities.",
+    "ta": "கட்டமைப்பிற்கு மின்சாரம், சமூகத்திற்கு ஒளி."
+  },
+  "hero": {
+    "en": "DEV ELECTRICALS delivers reliable electrical infrastructure solutions across Tamil Nadu through quality execution, engineering excellence, and commitment to public development.",
+    "ta": "DEV ELECTRICALS நிறுவனம் தமிழ்நாடு முழுவதும் தரமான மின்கட்டமைப்பு மற்றும் பொது பயன்பாட்டு திட்டங்களை சிறப்பாக நிறைவேற்றி வருகிறது."
+  },
+  "stats": [
+    { "value": 20, "suffix": "+", "label": { "en": "Years Experience", "ta": "ஆண்டுகள் அனுபவம்" } },
+    { "value": 100, "suffix": "+", "label": { "en": "Projects Completed", "ta": "திட்டங்கள் நிறைவு" } },
+    { "value": 1, "suffix": "", "label": { "en": "Tamil Nadu Coverage", "ta": "தமிழ்நாடு முழுவதும்" }, "display": "TN" },
+    { "value": 50, "suffix": "+", "label": { "en": "Government Projects", "ta": "அரசு திட்டங்கள்" } }
+  ],
+  "whyChooseUs": [
+    { "en": "Proven Industry Experience", "ta": "நிரூபிக்கப்பட்ட அனுபவம்", "icon": "award" },
+    { "en": "Government Project Expertise", "ta": "அரசு திட்டங்களில் நிபுணத்துவம்", "icon": "landmark" },
+    { "en": "Quality Workmanship", "ta": "தரமான பணியாற்றல்", "icon": "shield-check" },
+    { "en": "On-Time Delivery", "ta": "காலக்கெடு பின்பற்றல்", "icon": "clock" },
+    { "en": "Safety First Approach", "ta": "பாதுகாப்பு முன்னுரிமை", "icon": "hard-hat" },
+    { "en": "Skilled Workforce", "ta": "திறமையான பணியாளர்கள்", "icon": "users" }
+  ],
+  "about": {
+    "profile": {
+      "en": "DEV ELECTRICALS is a trusted electrical infrastructure contractor serving government departments, municipalities, and public sector organizations. We specialize in street lighting, utility infrastructure, electrical maintenance, cable laying, and public infrastructure development projects.",
+      "ta": "DEV ELECTRICALS நிறுவனம் அரசு துறைகள், மாநகராட்சிகள் மற்றும் பொதுத்துறை நிறுவனங்களுக்கு மின்கட்டமைப்பு சேவைகளை வழங்கும் நம்பகமான நிறுவனம் ஆகும்."
+    },
+    "experience": {
+      "en": "Management team has more than 20 years of experience executing electrical and infrastructure projects across Tamil Nadu.",
+      "ta": "நிர்வாகக் குழு தமிழ்நாடு முழுவதும் மின் மற்றும் உள்கட்டமைப்பு திட்டங்களை நிறைவேற்றுவதில் 20 ஆண்டுகளுக்கும் மேலான அனுபவம் கொண்டது."
+    },
+    "vision": {
+      "en": "To become Tamil Nadu's most trusted electrical infrastructure company, delivering sustainable and innovative solutions that improve communities and support public development.",
+      "ta": "தமிழ்நாட்டின் மிகவும் நம்பகமான மின்கட்டமைப்பு நிறுவனமாக வளர்ந்து, சமூக முன்னேற்றத்திற்கான நிலையான மற்றும் புதுமையான தீர்வுகளை வழங்குவது."
+    },
+    "mission": {
+      "en": "To execute electrical infrastructure projects with safety, quality, integrity, and engineering excellence while exceeding customer expectations.",
+      "ta": "பாதுகாப்பு, தரம், நேர்மை மற்றும் தொழில்நுட்ப சிறப்புடன் மின்கட்டமைப்பு திட்டங்களை வெற்றிகரமாக நிறைவேற்றுவது."
+    },
+    "coreValues": [
+      {
+        "title": { "en": "Integrity", "ta": "நேர்மை" },
+        "desc": { "en": "We conduct business with honesty and transparency.", "ta": "நேர்மை மற்றும் வெளிப்படைத்தன்மையுடன் செயல்படுகிறோம்." },
+        "icon": "handshake"
+      },
+      {
+        "title": { "en": "Quality", "ta": "தரம்" },
+        "desc": { "en": "Delivering superior workmanship and engineering excellence.", "ta": "உயர்தர பணித்திறன் மற்றும் பொறியியல் சிறப்பை வழங்குதல்." },
+        "icon": "gem"
+      },
+      {
+        "title": { "en": "Safety", "ta": "பாதுகாப்பு" },
+        "desc": { "en": "Safety is our highest priority.", "ta": "பாதுகாப்பே எங்கள் முதன்மை." },
+        "icon": "shield"
+      },
+      {
+        "title": { "en": "Commitment", "ta": "உறுதி" },
+        "desc": { "en": "Committed to delivering projects on time.", "ta": "காலக்கெடுவிற்குள் திட்டங்களை நிறைவேற்ற உறுதி." },
+        "icon": "target"
+      },
+      {
+        "title": { "en": "Innovation", "ta": "புதுமை" },
+        "desc": { "en": "Using modern technologies for efficient execution.", "ta": "நவீன தொழில்நுட்பங்களை பயன்படுத்தி திறமையான செயல்பாடு." },
+        "icon": "lightbulb"
+      }
+    ]
+  },
+  "nav": {
+    "home": { "en": "Home", "ta": "முகப்பு" },
+    "about": { "en": "About Us", "ta": "எங்களை பற்றி" },
+    "services": { "en": "Services", "ta": "சேவைகள்" },
+    "projects": { "en": "Projects", "ta": "திட்டங்கள்" },
+    "gallery": { "en": "Gallery", "ta": "படத்தொகுப்பு" },
+    "testimonials": { "en": "Testimonials", "ta": "சான்றிதழ்கள்" },
+    "contact": { "en": "Contact Us", "ta": "தொடர்பு" }
+  },
+  "buttons": {
+    "viewProjects": { "en": "View Projects", "ta": "திட்டங்களை காண" },
+    "contactUs": { "en": "Contact Us", "ta": "தொடர்புகொள்ள" },
+    "readMore": { "en": "Read More", "ta": "மேலும் படிக்க" },
+    "navigate": { "en": "Navigate", "ta": "வழிகாட்டி" },
+    "allProjects": { "en": "All", "ta": "அனைத்தும்" },
+    "completed": { "en": "Completed", "ta": "நிறைவு" },
+    "ongoing": { "en": "Ongoing", "ta": "நடப்பு" },
+    "search": { "en": "Search projects...", "ta": "திட்டங்களை தேடுக..." }
+  },
+  "footer": {
+    "copyright": {
+      "en": "All Rights Reserved.",
+      "ta": "அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை."
+    },
+    "quickLinks": { "en": "Quick Links", "ta": "விரைவு இணைப்புகள்" },
+    "contactInfo": { "en": "Contact Info", "ta": "தொடர்பு தகவல்" },
+    "followUs": { "en": "Follow Us", "ta": "எங்களை பின்தொடருங்கள்" }
+  },
+  "seo": {
+    "title": {
+      "en": "DEV ELECTRICALS | Electrical Infrastructure Contractor Chennai, Tamil Nadu",
+      "ta": "DEV ELECTRICALS | மின்கட்டமைப்பு ஒப்பந்ததாரர் சென்னை, தமிழ்நாடு"
+    },
+    "description": {
+      "en": "DEV ELECTRICALS - Leading electrical infrastructure contractor in Chennai, Tamil Nadu. Specializing in street lighting, government projects, cable laying, and utility infrastructure works. 20+ years of experience.",
+      "ta": "DEV ELECTRICALS - சென்னை, தமிழ்நாட்டின் முன்னணி மின்கட்டமைப்பு ஒப்பந்ததாரர். தெரு விளக்கு, அரசு திட்டங்கள், கேபிள் பதிப்பு மற்றும் பயன்பாட்டு உள்கட்டமைப்பு பணிகளில் நிபுணத்துவம்."
+    },
+    "keywords": "electrical contractor chennai, street lighting contractor tamil nadu, government electrical projects, cable laying contractor, infrastructure contractor chennai, DEV ELECTRICALS"
+  },
+  "pages": {
+    "about": { "en": "About Us", "ta": "எங்களை பற்றி" },
+    "services": { "en": "Our Services", "ta": "எங்கள் சேவைகள்" },
+    "projects": { "en": "Our Projects", "ta": "எங்கள் திட்டங்கள்" },
+    "gallery": { "en": "Project Gallery", "ta": "திட்ட படத்தொகுப்பு" },
+    "testimonials": { "en": "Client Testimonials", "ta": "வாடிக்கையாளர் சான்றிதழ்கள்" },
+    "contact": { "en": "Contact Us", "ta": "எங்களை தொடர்புகொள்ள" },
+    "projectDetail": { "en": "Project Details", "ta": "திட்ட விவரங்கள்" }
+  }
+}
