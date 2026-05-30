@@ -1,37 +1,63 @@
 [
   {
-    "id": 1,
-    "name": { "en": "Chennai Corporation Street Lighting Upgrade", "ta": "சென்னை மாநகராட்சி தெரு விளக்கு மேம்படுத்தல்" },
-    "client": { "en": "Greater Chennai Corporation", "ta": "பெருசென்னை மாநகராட்சி" },
-    "department": { "en": "Municipal Corporation", "ta": "மாநகராட்சி" },
-    "location": { "en": "Chennai, Tamil Nadu", "ta": "சென்னை, தமிழ்நாடு" },
-    "value": "₹2.5 Crore",
-    "startDate": "2023-01-15",
-    "endDate": "2023-11-30",
-    "status": "completed",
-    "completion": 100,
-    "category": "street-lights",
-    "description": {
-      "en": "Complete upgrade of street lighting infrastructure across 15 wards in Chennai. Installation of 2,500+ LED street lights replacing outdated sodium vapor lamps, resulting in 60% energy savings.",
-      "ta": "சென்னையில் 15 வார்டுகளில் தெரு விளக்கு கட்டமைப்பின் முழுமையான மேம்படுத்தல். காலாவதியான சோடியம் ஆவி விளக்குகளை மாற்றி 2,500+ LED தெரு விளக்குகள் நிறுவப்பட்டு 60% ஆற்றல் சேமிப்பு."
-    },
-    "scope": {
-      "en": ["Removal of old sodium vapor lights", "Installation of 2,500+ LED street lights", "New pole erection and wiring", "Smart controller integration", "Testing and commissioning"],
-      "ta": ["பழைய சோடியம் ஆவி விளக்குகள் அகற்றல்", "2,500+ LED தெரு விளக்குகள் நிறுவுதல்", "புதிய கம்ப நிறுவுதல் மற்றும் வயரிங்", "ஸ்மார்ட் கட்டுப்படுத்தி ஒருங்கிணைப்பு", "சோதனை மற்றும் ஆணையிடுதல்"]
-    },
-    "photos": [],
-    "videos": [],
-    "mapCoords": { "lat": 13.0827, "lng": 80.2707 },
-    "testimonial": {
-      "name": { "en": "Municipal Engineer", "ta": "மாநகராட்சி பொறியாளர்" },
-      "designation": { "en": "Chief Engineer", "ta": "தலைமை பொறியாளர்" },
-      "department": { "en": "Greater Chennai Corporation", "ta": "பெருசென்னை மாநகராட்சி" },
-      "feedback": {
-        "en": "DEV ELECTRICALS delivered exceptional work on the street lighting project. The quality of installation and adherence to timelines was commendable.",
-        "ta": "DEV ELECTRICALS தெரு விளக்கு திட்டத்தில் சிறந்த பணியை வழங்கியது. நிறுவலின் தரம் மற்றும் கால அளவைக் கடைப்பிடித்தது பாராட்டத்தக்கது."
-      }
-    }
+  "id": 2616,
+  "name": {
+    "en": "Supply and Installation of 62 Street Lamp Posts at Iyappa Nagar Lake",
+    "ta": "ஐயப்ப நகர் ஏரியில் 62 தெருவிளக்கு கம்பங்கள் அமைக்கும் பணி"
   },
+  "client": {
+    "en": "Greater Chennai Corporation",
+    "ta": "பெருநகர சென்னை மாநகராட்சி"
+  },
+  "department": {
+    "en": "Electrical Department",
+    "ta": "மின்துறை"
+  },
+  "location": {
+    "en": "Puzhuthivakkam Lake (Iyappa Nagar Lake), Division 187, Zone 14, Chennai",
+    "ta": "புழுதிவாக்கம் ஏரி (ஐயப்ப நகர் ஏரி), பிரிவு 187, மண்டலம் 14, சென்னை"
+  },
+  "value": "₹27.87 Lakhs",
+  "tenderNo": "El.D.C.No.South/2616/2022",
+  "scheme": {
+    "en": "NIRBHAYA Scheme",
+    "ta": "நிர்பயா திட்டம்"
+  },
+  "startDate": "2022-06-10",
+  "endDate": "2022-09-10",
+  "status": "completed",
+  "completion": 100,
+  "category": "street-lights",
+  "description": {
+    "en": "Supply, erection, testing and commissioning of 62 Nos. of 6-meter street lamp posts with LED fittings at Puzhuthivakkam Lake under the NIRBHAYA Scheme to improve public safety and lighting infrastructure.",
+    "ta": "புழுதிவாக்கம் ஏரியில் நிர்பயா திட்டத்தின் கீழ் 62 எண் 6 மீட்டர் உயரம் கொண்ட எல்இடி தெருவிளக்குகளை வழங்கி நிறுவிய மின்கட்டமைப்பு திட்டம்."
+  },
+  "scope": {
+    "en": [
+      "Supply of 62 street lamp posts",
+      "LED fitting installation",
+      "Testing and commissioning",
+      "Public space lighting enhancement",
+      "Women's safety improvement"
+    ],
+    "ta": [
+      "62 தெருவிளக்கு கம்பங்கள் வழங்குதல்",
+      "எல்இடி விளக்குகள் நிறுவுதல்",
+      "சோதனை மற்றும் இயக்கத்தில் கொண்டு வருதல்",
+      "பொது இட ஒளிவசதி மேம்பாடு",
+      "பெண்கள் பாதுகாப்பு மேம்பாடு"
+    ]
+  },
+  "photos": [],
+  "videos": [],
+  "mapCoords": {
+    "lat": 12.9706716,
+    "lng": 80.2022093
+  },
+  "mapUrl": "https://maps.google.com/?q=12.9706716,80.2022093",
+  "testimonial": null,
+  "featured": true
+},
   {
     "id": 2,
     "name": { "en": "TANGEDCO Underground Cable Laying Project", "ta": "TANGEDCO நிலத்தடி கேபிள் பதிப்பு திட்டம்" },
