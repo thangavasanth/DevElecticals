@@ -19,7 +19,7 @@ const ContactPage = (() => {
         <div class="container">
           <div class="contact-grid">
             <div class="contact-info-cards">
-              <div class="contact-card reveal stagger-1">
+              <div class="contact-card">
                 <div class="contact-card-icon"><i class="fas fa-building"></i></div>
                 <div>
                   <h4>${company.name}</h4>
@@ -27,7 +27,7 @@ const ContactPage = (() => {
                 </div>
               </div>
 
-              <div class="contact-card reveal stagger-2">
+              <div class="contact-card">
                 <div class="contact-card-icon"><i class="fas fa-map-marker-alt"></i></div>
                 <div>
                   <h4>${lang === 'ta' ? 'முகவரி' : 'Address'}</h4>
@@ -35,15 +35,15 @@ const ContactPage = (() => {
                 </div>
               </div>
 
-              <div class="contact-card reveal stagger-3">
+              <div class="contact-card">
                 <div class="contact-card-icon"><i class="fas fa-phone-alt"></i></div>
                 <div>
                   <h4>${lang === 'ta' ? 'தொலைபேசி' : 'Phone'}</h4>
-                  ${company.phone.map(p => `<p><a href="tel:${p.replace(/[^+\d]/g, '')}">${p}</a></p>`).join('')}
+                  ${company.phone.map(p => `<p><a href="tel:${p.replace(/[^+\\d]/g, '')}">${p}</a></p>`).join('')}
                 </div>
               </div>
 
-              <div class="contact-card reveal stagger-4">
+              <div class="contact-card">
                 <div class="contact-card-icon"><i class="fas fa-envelope"></i></div>
                 <div>
                   <h4>${lang === 'ta' ? 'மின்னஞ்சல்' : 'Email'}</h4>
@@ -51,7 +51,7 @@ const ContactPage = (() => {
                 </div>
               </div>
 
-              <div class="contact-card reveal stagger-5">
+              <div class="contact-card">
                 <div class="contact-card-icon"><i class="fas fa-id-card"></i></div>
                 <div>
                   <h4>GST ${lang === 'ta' ? 'எண்' : 'Number'}</h4>
@@ -59,12 +59,12 @@ const ContactPage = (() => {
                 </div>
               </div>
 
-              <a href="${company.mapLink}" target="_blank" class="btn btn-primary reveal stagger-6" style="width: fit-content;">
+              <a href="${company.mapLink}" target="_blank" class="btn btn-primary" style="width: fit-content;">
                 <i class="fas fa-directions"></i> ${t(content.buttons.navigate)}
               </a>
             </div>
 
-            <div class="contact-map reveal-right">
+            <div class="contact-map">
               <iframe
                 src="https://maps.google.com/maps?q=${company.mapCoords.lat},${company.mapCoords.lng}&z=15&output=embed"
                 allowfullscreen loading="lazy"
@@ -78,7 +78,7 @@ const ContactPage = (() => {
   }
 
   function afterRender() {
-    Utils.initScrollReveal();
+    // No scroll reveal — all items visible immediately
   }
 
   return { render, afterRender };
