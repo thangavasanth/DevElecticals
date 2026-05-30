@@ -224,6 +224,64 @@
     "featured": true
   },
   {
+  "id": 7279,
+  "name": {
+    "en": "Public Lighting Maintenance Work in Wards 10, 11 and 21",
+    "ta": "வார்டு 10, 11 மற்றும் 21 பகுதிகளுக்கான பொது விளக்கு பராமரிப்பு பணி"
+  },
+  "client": {
+    "en": "Coimbatore Corporation",
+    "ta": "கோயம்புத்தூர் மாநகராட்சி"
+  },
+  "department": {
+    "en": "Electrical Maintenance Division",
+    "ta": "மின் பராமரிப்பு பிரிவு"
+  },
+  "location": {
+    "en": "Wards 10, 11 and 21, Coimbatore, Tamil Nadu",
+    "ta": "வார்டுகள் 10, 11 மற்றும் 21, கோயம்புத்தூர், தமிழ்நாடு"
+  },
+  "value": "₹54,000",
+  "tenderNo": "Na.Ka.No.7279/2023/C1",
+  "scheme": {
+    "en": "Public Lighting Maintenance",
+    "ta": "பொது விளக்கு பராமரிப்பு திட்டம்"
+  },
+  "startDate": "2023-12-22",
+  "endDate": "2024-02-20",
+  "status": "completed",
+  "completion": 100,
+  "category": "maintenance",
+  "description": {
+    "en": "Maintenance and repair of public lighting infrastructure in Wards 10, 11 and 21 under Coimbatore Corporation. The work included rectification of faults and restoration of street lighting facilities.",
+    "ta": "கோயம்புத்தூர் மாநகராட்சியின் 10, 11 மற்றும் 21வது வார்டுகளில் பொது தெருவிளக்கு அமைப்புகளின் பராமரிப்பு மற்றும் பழுதுபார்ப்பு பணிகள் மேற்கொள்ளப்பட்டது."
+  },
+  "scope": {
+    "en": [
+      "Street light maintenance",
+      "Electrical fault rectification",
+      "Public lighting inspection",
+      "Repair and restoration works",
+      "Routine maintenance activities"
+    ],
+    "ta": [
+      "தெருவிளக்கு பராமரிப்பு",
+      "மின் கோளாறு சரிசெய்தல்",
+      "ஒளி அமைப்பு ஆய்வு",
+      "பழுதுபார்ப்பு மற்றும் மீட்பு பணிகள்",
+      "வழக்கமான பராமரிப்பு பணிகள்"
+    ]
+  },
+  "photos": [],
+  "videos": [],
+  "mapCoords": {
+    "lat": 11.0168,
+    "lng": 76.9558
+  },
+  "testimonial": null,
+  "featured": false
+},
+  {
     "id": 107,
     "name": {
       "en": "79 Street Lamp Posts at Thayar Shakib Street and Ellis Road",
