@@ -3,7 +3,7 @@
   .hero-grid { grid-template-columns: 1fr; text-align: center; gap: 40px; }
   .hero-content { order: 1; }
   .hero-visual { order: 0; }
-  .hero-logo-large { width: 240px; }
+  .hero-logo-large { width: 240px; height: 240px; }
   .hero h1 { font-size: 2.4rem; }
   .hero-desc { margin: 0 auto 32px; }
   .hero-buttons { justify-content: center; }
@@ -45,7 +45,7 @@
   .hero h1 { font-size: 2rem; }
   .hero-tagline { font-size: 1rem; }
   .hero-desc { font-size: 0.95rem; }
-  .hero-logo-large { width: 180px; }
+  .hero-logo-large { width: 180px; height: 180px; }
 
   .stats-grid { grid-template-columns: repeat(2, 1fr); gap: 16px; }
   .stat-number { font-size: 2rem; }
