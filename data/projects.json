@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": { "en": "Chennai Corporation Street Lighting Upgrade", "ta": "சென்னை மாநகராட்சி தெரு விளக்கு மேம்படுத்தல்" },
+    "client": { "en": "Greater Chennai Corporation", "ta": "பெருசென்னை மாநகராட்சி" },
+    "department": { "en": "Municipal Corporation", "ta": "மாநகராட்சி" },
+    "location": { "en": "Chennai, Tamil Nadu", "ta": "சென்னை, தமிழ்நாடு" },
+    "value": "₹2.5 Crore",
+    "startDate": "2023-01-15",
+    "endDate": "2023-11-30",
+    "status": "completed",
+    "completion": 100,
+    "category": "street-lights",
+    "description": {
+      "en": "Complete upgrade of street lighting infrastructure across 15 wards in Chennai. Installation of 2,500+ LED street lights replacing outdated sodium vapor lamps, resulting in 60% energy savings.",
+      "ta": "சென்னையில் 15 வார்டுகளில் தெரு விளக்கு கட்டமைப்பின் முழுமையான மேம்படுத்தல். காலாவதியான சோடியம் ஆவி விளக்குகளை மாற்றி 2,500+ LED தெரு விளக்குகள் நிறுவப்பட்டு 60% ஆற்றல் சேமிப்பு."
+    },
+    "scope": {
+      "en": ["Removal of old sodium vapor lights", "Installation of 2,500+ LED street lights", "New pole erection and wiring", "Smart controller integration", "Testing and commissioning"],
+      "ta": ["பழைய சோடியம் ஆவி விளக்குகள் அகற்றல்", "2,500+ LED தெரு விளக்குகள் நிறுவுதல்", "புதிய கம்ப நிறுவுதல் மற்றும் வயரிங்", "ஸ்மார்ட் கட்டுப்படுத்தி ஒருங்கிணைப்பு", "சோதனை மற்றும் ஆணையிடுதல்"]
+    },
+    "photos": [],
+    "videos": [],
+    "mapCoords": { "lat": 13.0827, "lng": 80.2707 },
+    "testimonial": {
+      "name": { "en": "Municipal Engineer", "ta": "மாநகராட்சி பொறியாளர்" },
+      "designation": { "en": "Chief Engineer", "ta": "தலைமை பொறியாளர்" },
+      "department": { "en": "Greater Chennai Corporation", "ta": "பெருசென்னை மாநகராட்சி" },
+      "feedback": {
+        "en": "DEV ELECTRICALS delivered exceptional work on the street lighting project. The quality of installation and adherence to timelines was commendable.",
+        "ta": "DEV ELECTRICALS தெரு விளக்கு திட்டத்தில் சிறந்த பணியை வழங்கியது. நிறுவலின் தரம் மற்றும் கால அளவைக் கடைப்பிடித்தது பாராட்டத்தக்கது."
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": { "en": "TANGEDCO Underground Cable Laying Project", "ta": "TANGEDCO நிலத்தடி கேபிள் பதிப்பு திட்டம்" },
+    "client": { "en": "TANGEDCO", "ta": "TANGEDCO" },
+    "department": { "en": "Tamil Nadu Generation and Distribution Corporation", "ta": "தமிழ்நாடு மின்உற்பத்தி மற்றும் விநியோக கழகம்" },
+    "location": { "en": "Madurai, Tamil Nadu", "ta": "மதுரை, தமிழ்நாடு" },
+    "value": "₹4.8 Crore",
+    "startDate": "2024-03-01",
+    "endDate": "2025-02-28",
+    "status": "completed",
+    "completion": 100,
+    "category": "cable-works",
+    "description": {
+      "en": "Underground cable laying project for TANGEDCO covering 45 km of HT and LT cable installation in Madurai district. Included trenching, cable laying, jointing, and restoration works.",
+      "ta": "மதுரை மாவட்டத்தில் 45 கிமீ HT மற்றும் LT கேபிள் நிறுவலை உள்ளடக்கிய TANGEDCO நிலத்தடி கேபிள் பதிப்பு திட்டம்."
+    },
+    "scope": {
+      "en": ["45 km HT/LT cable trenching", "Cable laying and jointing", "Transformer pad construction", "Road restoration", "Testing and energization"],
+      "ta": ["45 கிமீ HT/LT கேபிள் அகழ்வு", "கேபிள் பதிப்பு மற்றும் இணைப்பு", "மின்மாற்றி அடித்தள கட்டுமானம்", "சாலை மறுசீரமைப்பு", "சோதனை மற்றும் மின்சாரமயமாக்கல்"]
+    },
+    "photos": [],
+    "videos": [],
+    "mapCoords": { "lat": 9.9252, "lng": 78.1198 },
+    "testimonial": {
+      "name": { "en": "Superintending Engineer", "ta": "மேற்பார்வை பொறியாளர்" },
+      "designation": { "en": "Superintending Engineer", "ta": "மேற்பார்வை பொறியாளர்" },
+      "department": { "en": "TANGEDCO - Madurai Region", "ta": "TANGEDCO - மதுரை பகுதி" },
+      "feedback": {
+        "en": "The underground cable laying was completed with excellent quality standards. DEV ELECTRICALS maintained safety protocols throughout the project duration.",
+        "ta": "நிலத்தடி கேபிள் பதிப்பு சிறந்த தரத்தில் நிறைவு செய்யப்பட்டது. DEV ELECTRICALS திட்ட காலம் முழுவதும் பாதுகாப்பு நெறிமுறைகளை பின்பற்றியது."
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": { "en": "Smart Street Lighting - Coimbatore Smart City", "ta": "ஸ்மார்ட் தெரு விளக்கு - கோயம்புத்தூர் ஸ்மார்ட் சிட்டி" },
+    "client": { "en": "Coimbatore Smart City Limited", "ta": "கோயம்புத்தூர் ஸ்மார்ட் சிட்டி லிமிடெட்" },
+    "department": { "en": "Smart Cities Mission", "ta": "ஸ்மார்ட் சிட்டி மிஷன்" },
+    "location": { "en": "Coimbatore, Tamil Nadu", "ta": "கோயம்புத்தூர், தமிழ்நாடு" },
+    "value": "₹3.2 Crore",
+    "startDate": "2025-01-10",
+    "endDate": "2025-12-31",
+    "status": "ongoing",
+    "completion": 45,
+    "category": "infrastructure",
+    "description": {
+      "en": "Implementation of IoT-enabled smart street lighting system for Coimbatore Smart City project. Includes installation of 1,800 smart LED lights with remote monitoring and automated controls.",
+      "ta": "கோயம்புத்தூர் ஸ்மார்ட் சிட்டி திட்டத்திற்கான IoT-இயக்கப்பட்ட ஸ்மார்ட் தெரு விளக்கு அமைப்பின் செயல்படுத்தல்."
+    },
+    "scope": {
+      "en": ["Smart LED light installation (1,800 units)", "IoT gateway deployment", "Central monitoring system setup", "Mobile app integration", "Energy audit and optimization"],
+      "ta": ["ஸ்மார்ட் LED விளக்கு நிறுவுதல் (1,800 அலகுகள்)", "IoT கேட்வே பயன்படுத்தல்", "மத்திய கண்காணிப்பு அமைப்பு", "மொபைல் ஆப் ஒருங்கிணைப்பு", "ஆற்றல் தணிக்கை மற்றும் மேம்படுத்தல்"]
+    },
+    "photos": [],
+    "videos": [],
+    "mapCoords": { "lat": 11.0168, "lng": 76.9558 },
+    "testimonial": null
+  }
+]

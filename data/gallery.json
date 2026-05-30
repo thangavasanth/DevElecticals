@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "type": "photo",
+    "category": "street-lights",
+    "title": { "en": "LED Street Light Installation", "ta": "LED தெரு விளக்கு நிறுவுதல்" },
+    "src": "assets/images/placeholder/gallery-1.jpg",
+    "projectId": 1
+  },
+  {
+    "id": 2,
+    "type": "photo",
+    "category": "cable-works",
+    "title": { "en": "Underground Cable Trenching", "ta": "நிலத்தடி கேபிள் அகழ்வு" },
+    "src": "assets/images/placeholder/gallery-2.jpg",
+    "projectId": 2
+  },
+  {
+    "id": 3,
+    "type": "photo",
+    "category": "infrastructure",
+    "title": { "en": "Smart Lighting Control Panel", "ta": "ஸ்மார்ட் லைட்டிங் கட்டுப்பாட்டு பேனல்" },
+    "src": "assets/images/placeholder/gallery-3.jpg",
+    "projectId": 3
+  },
+  {
+    "id": 4,
+    "type": "photo",
+    "category": "government",
+    "title": { "en": "Government Project Inauguration", "ta": "அரசு திட்ட தொடக்க விழா" },
+    "src": "assets/images/placeholder/gallery-4.jpg",
+    "projectId": 1
+  },
+  {
+    "id": 5,
+    "type": "photo",
+    "category": "maintenance",
+    "title": { "en": "Preventive Maintenance Work", "ta": "தடுப்பு பராமரிப்பு பணி" },
+    "src": "assets/images/placeholder/gallery-5.jpg",
+    "projectId": null
+  },
+  {
+    "id": 6,
+    "type": "photo",
+    "category": "street-lights",
+    "title": { "en": "Highway Lighting Project", "ta": "நெடுஞ்சாலை விளக்கு திட்டம்" },
+    "src": "assets/images/placeholder/gallery-6.jpg",
+    "projectId": null
+  }
+]

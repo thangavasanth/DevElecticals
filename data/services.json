@@ -1,0 +1,50 @@
+[
+  {
+    "id": "street-lighting",
+    "title": { "en": "Street Lighting Projects", "ta": "தெரு விளக்கு திட்டங்கள்" },
+    "desc": { "en": "Design, installation, and maintenance of modern street lighting systems including LED and smart lighting solutions for municipalities and government bodies.", "ta": "நகராட்சிகள் மற்றும் அரசு நிறுவனங்களுக்கு LED மற்றும் ஸ்மார்ட் லைட்டிங் உட்பட நவீன தெரு விளக்கு அமைப்புகளின் வடிவமைப்பு, நிறுவுதல் மற்றும் பராமரிப்பு." },
+    "icon": "streetlight"
+  },
+  {
+    "id": "electrical-infra",
+    "title": { "en": "Electrical Infrastructure Works", "ta": "மின்கட்டமைப்பு பணிகள்" },
+    "desc": { "en": "Comprehensive electrical infrastructure development for public utilities, including power distribution networks, transformer installation, and substation works.", "ta": "மின் விநியோக நெட்வொர்க்குகள், மின்மாற்றி நிறுவுதல் மற்றும் சப்ஸ்டேஷன் பணிகள் உட்பட பொது பயன்பாட்டிற்கான விரிவான மின்கட்டமைப்பு மேம்பாடு." },
+    "icon": "bolt"
+  },
+  {
+    "id": "cable-laying",
+    "title": { "en": "Cable Laying Works", "ta": "கேபிள் பதிப்பு பணிகள்" },
+    "desc": { "en": "Underground and overhead cable laying for power distribution, telecommunication, and utility networks with precision and safety compliance.", "ta": "மின் விநியோகம், தொலைத்தொடர்பு மற்றும் பயன்பாட்டு நெட்வொர்க்குகளுக்கான நிலத்தடி மற்றும் மேல்நிலை கேபிள் பதிப்பு பணிகள்." },
+    "icon": "cable"
+  },
+  {
+    "id": "govt-tenders",
+    "title": { "en": "Government Tender Projects", "ta": "அரசு டெண்டர் திட்டங்கள்" },
+    "desc": { "en": "Execution of government-tendered electrical and infrastructure projects for state departments, public works, and municipal corporations.", "ta": "மாநில துறைகள், பொதுப்பணித்துறை மற்றும் மாநகராட்சிகளுக்கான அரசு டெண்டர் மின் மற்றும் உள்கட்டமைப்பு திட்டங்களின் செயல்படுத்தல்." },
+    "icon": "landmark"
+  },
+  {
+    "id": "telephone-infra",
+    "title": { "en": "Telephone Infrastructure Projects", "ta": "தொலைபேசி கட்டமைப்பு திட்டங்கள்" },
+    "desc": { "en": "Installation and maintenance of telephone infrastructure, including pole erection, cable routing, and junction box installation for telecom networks.", "ta": "தொலைத்தொடர்பு நெட்வொர்க்குகளுக்கான கம்ப நிறுவுதல், கேபிள் ரூட்டிங் மற்றும் ஜங்ஷன் பாக்ஸ் நிறுவுதல் உட்பட தொலைபேசி கட்டமைப்பு நிறுவுதல் மற்றும் பராமரிப்பு." },
+    "icon": "phone"
+  },
+  {
+    "id": "utility-network",
+    "title": { "en": "Utility Network Development", "ta": "பயன்பாட்டு நெட்வொர்க் மேம்பாடு" },
+    "desc": { "en": "Development and upgrade of utility networks for water, gas, and electrical distribution systems with modern engineering practices.", "ta": "நவீன பொறியியல் நடைமுறைகளுடன் நீர், எரிவாயு மற்றும் மின் விநியோக அமைப்புகளுக்கான பயன்பாட்டு நெட்வொர்க் மேம்பாடு." },
+    "icon": "network"
+  },
+  {
+    "id": "maintenance",
+    "title": { "en": "Electrical Maintenance Contracts", "ta": "மின் பராமரிப்பு ஒப்பந்தங்கள்" },
+    "desc": { "en": "Annual maintenance contracts for electrical infrastructure, including preventive maintenance, emergency repairs, and system upgrades.", "ta": "தடுப்பு பராமரிப்பு, அவசர பழுதுபார்ப்பு மற்றும் அமைப்பு மேம்படுத்தல்கள் உட்பட மின்கட்டமைப்புக்கான வருடாந்திர பராமரிப்பு ஒப்பந்தங்கள்." },
+    "icon": "wrench"
+  },
+  {
+    "id": "smart-lighting",
+    "title": { "en": "Smart Lighting Solutions", "ta": "ஸ்மார்ட் லைட்டிங் தீர்வுகள்" },
+    "desc": { "en": "IoT-enabled smart street lighting systems with remote monitoring, energy-efficient LED technology, and automated dimming controls.", "ta": "ரிமோட் கண்காணிப்பு, ஆற்றல்-திறன் LED தொழில்நுட்பம் மற்றும் தானியங்கி டிம்மிங் கட்டுப்பாடுகளுடன் IoT-இயக்கப்பட்ட ஸ்மார்ட் தெரு விளக்கு அமைப்புகள்." },
+    "icon": "cpu"
+  }
+]

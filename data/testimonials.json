@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "projectId": 1,
+    "name": { "en": "R. Venkataraman", "ta": "ஆர். வெங்கடராமன்" },
+    "designation": { "en": "Chief Engineer", "ta": "தலைமை பொறியாளர்" },
+    "department": { "en": "Greater Chennai Corporation", "ta": "பெருசென்னை மாநகராட்சி" },
+    "feedback": {
+      "en": "DEV ELECTRICALS delivered exceptional work on the street lighting project. The quality of installation and adherence to timelines was commendable. Their team demonstrated professionalism and technical expertise throughout.",
+      "ta": "DEV ELECTRICALS தெரு விளக்கு திட்டத்தில் சிறந்த பணியை வழங்கியது. நிறுவலின் தரம் மற்றும் கால அளவைக் கடைப்பிடித்தது பாராட்டத்தக்கது. அவர்களின் குழு முழுவதும் தொழில்முறை மற்றும் தொழில்நுட்ப நிபுணத்துவத்தை வெளிப்படுத்தியது."
+    }
+  },
+  {
+    "id": 2,
+    "projectId": 2,
+    "name": { "en": "S. Murugan", "ta": "எஸ். முருகன்" },
+    "designation": { "en": "Superintending Engineer", "ta": "மேற்பார்வை பொறியாளர்" },
+    "department": { "en": "TANGEDCO - Madurai Region", "ta": "TANGEDCO - மதுரை பகுதி" },
+    "feedback": {
+      "en": "The underground cable laying was completed with excellent quality standards. DEV ELECTRICALS maintained safety protocols throughout the project duration. We appreciate their dedication to quality workmanship.",
+      "ta": "நிலத்தடி கேபிள் பதிப்பு சிறந்த தரத்தில் நிறைவு செய்யப்பட்டது. DEV ELECTRICALS திட்ட காலம் முழுவதும் பாதுகாப்பு நெறிமுறைகளை பின்பற்றியது. தரமான பணித்திறனுக்கான அவர்களின் அர்ப்பணிப்பை நாங்கள் பாராட்டுகிறோம்."
+    }
+  },
+  {
+    "id": 3,
+    "projectId": null,
+    "name": { "en": "K. Ramasamy", "ta": "கே. ராமசாமி" },
+    "designation": { "en": "Executive Engineer", "ta": "நிர்வாக பொறியாளர்" },
+    "department": { "en": "Tamil Nadu Highways Department", "ta": "தமிழ்நாடு நெடுஞ்சாலைத்துறை" },
+    "feedback": {
+      "en": "We have worked with DEV ELECTRICALS on multiple highway lighting projects. Their consistent quality and reliability make them our preferred contractor for electrical infrastructure works.",
+      "ta": "நெடுஞ்சாலை விளக்கு திட்டங்களில் DEV ELECTRICALS உடன் நாங்கள் பல முறை பணிபுரிந்துள்ளோம். அவர்களின் நிலையான தரம் மற்றும் நம்பகத்தன்மை மின்கட்டமைப்பு பணிகளுக்கான எங்கள் விருப்பமான ஒப்பந்ததாரராக அவர்களை ஆக்குகிறது."
+    }
+  }
+]
