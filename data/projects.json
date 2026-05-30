@@ -1,420 +1,284 @@
 [
-  {
-  "id": 2616,
-  "name": {
-    "en": "Street Lamp Posts at Iyappa Nagar @ Puzhuthivakkam Lake",
-    "ta": "புழுதிவாக்கம் ஐயப்ப நகர் ஏரியில் தெருவிளக்கு கம்பங்கள் அமைக்கும் பணி"
-  },
-  "client": {
-    "en": "Greater Chennai Corporation",
-    "ta": "பெருநகர சென்னை மாநகராட்சி"
-  },
-  "department": {
-    "en": "Electrical Department",
-    "ta": "மின்துறை"
-  },
-  "location": {
-    "en": "Puzhuthivakkam Lake (Iyappa Nagar Lake), Division 187, Zone 14, Chennai",
-    "ta": "புழுதிவாக்கம் ஏரி (ஐயப்ப நகர் ஏரி), பிரிவு 187, மண்டலம் 14, சென்னை"
-  },
-  "value": "₹27.87 Lakhs",
-  "tenderNo": "El.D.C.No.South/2616/2022",
-  "scheme": {
-    "en": "NIRBHAYA Scheme",
-    "ta": "நிர்பயா திட்டம்"
-  },
-  "startDate": "2022-06-10",
-  "endDate": "2022-09-10",
-  "status": "completed",
-  "completion": 100,
-  "category": "street-lights",
-  "description": {
-    "en": "Supply, erection, testing and commissioning of 62 Nos. of 6-meter street lamp posts with LED fittings at Puzhuthivakkam Lake under the NIRBHAYA Scheme to improve public safety and lighting infrastructure.",
-    "ta": "புழுதிவாக்கம் ஏரியில் நிர்பயா திட்டத்தின் கீழ் 62 எண் 6 மீட்டர் உயரம் கொண்ட எல்இடி தெருவிளக்குகளை வழங்கி நிறுவிய மின்கட்டமைப்பு திட்டம்."
-  },
-  "scope": {
-    "en": [
-      "Supply of 62 street lamp posts",
-      "LED fitting installation",
-      "Testing and commissioning",
-      "Public space lighting enhancement",
-      "Women's safety improvement"
-    ],
-    "ta": [
-      "62 தெருவிளக்கு கம்பங்கள் வழங்குதல்",
-      "எல்இடி விளக்குகள் நிறுவுதல்",
-      "சோதனை மற்றும் இயக்கத்தில் கொண்டு வருதல்",
-      "பொது இட ஒளிவசதி மேம்பாடு",
-      "பெண்கள் பாதுகாப்பு மேம்பாடு"
-    ]
-  },
-  "photos": [],
-  "videos": [],
-  "mapCoords": {
-    "lat": 12.9706716,
-    "lng": 80.2022093
-  },
-  "mapUrl": "https://maps.google.com/?q=12.9706716,80.2022093",
-  "testimonial": null,
-  "featured": true
-},
-  {
-  "id": 7279,
-  "name": {
-    "en": "Public Lighting Maintenance Work - Ward 10, 11 & 21",
-    "ta": "வார்டு 10, 11 மற்றும் 21 பகுதிகளுக்கான பொது விளக்கு பராமரிப்பு பணி"
-  },
-  "client": {
-    "en": "Coimbatore Corporation",
-    "ta": "கோயம்புத்தூர் மாநகராட்சி"
-  },
-  "department": {
-    "en": "Electrical Wing",
-    "ta": "மின்பிரிவு"
-  },
-  "location": {
-    "en": "Coimbatore, Tamil Nadu",
-    "ta": "கோயம்புத்தூர், தமிழ்நாடு"
-  },
-  "value": "₹54,000",
-  "tenderNo": "Na.Ka.No.7279/2023/C1",
-  "scheme": {
-    "en": "Public Lighting Maintenance",
-    "ta": "பொது விளக்கு பராமரிப்பு திட்டம்"
-  },
-  "startDate": "2023-12-22",
-  "endDate": "2024-02-20",
-  "status": "completed",
-  "completion": 100,
-  "category": "maintenance",
-  "description": {
-    "en": "Maintenance and repair works for public lighting infrastructure covering Ward Nos. 10, 11 and 21 under Coimbatore Corporation. The work included inspection, rectification and restoration of street lighting facilities.",
-    "ta": "கோயம்புத்தூர் மாநகராட்சியின் 10, 11 மற்றும் 21வது வார்டுகளில் உள்ள பொது தெருவிளக்கு அமைப்புகளின் பராமரிப்பு மற்றும் பழுதுபார்ப்பு பணிகள் மேற்கொள்ளப்பட்டது."
-  },
-  "scope": {
-    "en": [
-      "Street light maintenance",
-      "Electrical fault rectification",
-      "Public lighting inspection",
-      "Restoration of lighting facilities",
-      "Routine maintenance activities"
-    ],
-    "ta": [
-      "தெருவிளக்கு பராமரிப்பு",
-      "மின் கோளாறு சரிசெய்தல்",
-      "ஒளி அமைப்பு ஆய்வு",
-      "விளக்கு வசதி மீட்பு",
-      "வழக்கமான பராமரிப்பு பணிகள்"
-    ]
-  },
-  "photos": [],
-  "videos": [],
-  "mapCoords": {
-    "lat": 11.0168,
-    "lng": 76.9558
-  },
-  "mapUrl": "https://maps.google.com/?q=11.0168,76.9558",
-  "testimonial": null,
-  "featured": false
-},
-  {
-  "id": 107,
-  "name": {
-    "en": "Supply and Erection of 79 Lamp Posts at Thayar Shakib Street and Ellis Road",
-    "ta": "தாயார் ஷகிப் தெரு மற்றும் எலிஸ் சாலையில் 79 தெருவிளக்கு கம்பங்கள் அமைக்கும் பணி"
-  },
-  "client": {
-    "en": "Greater Chennai Corporation",
-    "ta": "பெருநகர சென்னை மாநகராட்சி"
-  },
-  "department": {
-    "en": "Electrical Department",
-    "ta": "மின்துறை"
-  },
-  "location": {
-    "en": "Thayar Shakib Street, Ellis Road and Various Locations, Division 59 & 63, Zone 5, Chennai",
-    "ta": "தாயார் ஷகிப் தெரு, எலிஸ் சாலை மற்றும் பல்வேறு இடங்கள், பிரிவு 59 & 63, மண்டலம் 5, சென்னை"
-  },
-  "value": "₹33.10 Lakhs",
-  "tenderNo": "El.D.C.No.North/107/2023",
-  "scheme": {
-    "en": "NIRBHAYA Scheme",
-    "ta": "நிர்பயா திட்டம்"
-  },
-  "startDate": "2023-01-25",
-  "endDate": "2023-06-25",
-  "status": "completed",
-  "completion": 100,
-  "category": "street-lights",
-  "description": {
-    "en": "Supply and erection of 79 Nos of 7-meter lamp posts with LED fittings at Thayar Shakib Street, Ellis Road and various locations in Division 59 and 63, Zone 5, Chennai for improving lighting facilities in public places and enhancing safety for women under the NIRBHAYA Scheme.",
-    "ta": "நிர்பயா திட்டத்தின் கீழ் பெண்களின் பாதுகாப்பை மேம்படுத்தும் நோக்கில் சென்னை மண்டலம் 5, பிரிவு 59 மற்றும் 63 பகுதிகளில் தாயார் ஷகிப் தெரு, எலிஸ் சாலை மற்றும் பல்வேறு இடங்களில் 79 எண் 7 மீட்டர் LED தெருவிளக்கு கம்பங்கள் நிறுவப்பட்ட திட்டம்."
-  },
-  "scope": {
-    "en": [
-      "Supply of 79 Nos of 7-meter lamp posts",
-      "LED street light installation",
-      "Erection of lamp posts",
-      "Testing and commissioning",
-      "Public area illumination enhancement",
-      "Women's safety improvement under NIRBHAYA Scheme"
-    ],
-    "ta": [
-      "79 எண் 7 மீட்டர் தெருவிளக்கு கம்பங்கள் வழங்குதல்",
-      "LED தெருவிளக்குகள் நிறுவுதல்",
-      "கம்பங்கள் அமைத்தல்",
-      "சோதனை மற்றும் இயக்கத்தில் கொண்டு வருதல்",
-      "பொது இட ஒளிவசதி மேம்படுத்துதல்",
-      "நிர்பயா திட்டத்தின் கீழ் பெண்கள் பாதுகாப்பை மேம்படுத்துதல்"
-    ]
-  },
-  "photos": [],
-  "videos": [],
-  "mapCoords": {
-    "lat": null,
-    "lng": null
-  },
-  "testimonial": {
-    "name": "Project Monitoring Officer",
-    "designation": "Electrical Department",
-    "organization": "Greater Chennai Corporation",
-    "rating": 5,
-    "feedback": {
-      "en": "The project was completed with high quality standards and significantly improved lighting and public safety in the area.",
-      "ta": "இந்த திட்டம் உயர்தரமாக நிறைவேற்றப்பட்டு, அப்பகுதியின் ஒளிவசதி மற்றும் பொது பாதுகாப்பை குறிப்பிடத்தக்க அளவில் மேம்படுத்தியுள்ளது."
-    }
-  },
-  "featured": true
-},
 {
-  "id": 429,
-  "name": {
-    "en": "Supply, Erection, Testing and Commissioning of 28 Street Lamp Posts at MRC Nagar",
-    "ta": "எம்.ஆர்.சி. நகர் பகுதியில் 28 தெருவிளக்கு கம்பங்கள் நிறுவும் பணி"
-  },
-  "client": {
-    "en": "Greater Chennai Corporation",
-    "ta": "பெருநகர சென்னை மாநகராட்சி"
-  },
-  "department": {
-    "en": "Electrical Department",
-    "ta": "மின்துறை"
-  },
-  "location": {
-    "en": "Thandavarayan Street, Loyds Avenue, MRC Nagar and various locations in Raja Annamalaipuram, Division 171, Zone 13, Chennai",
-    "ta": "தண்டவராயன் தெரு, லாய்ட்ஸ் அவென்யூ, எம்.ஆர்.சி. நகர் மற்றும் ராஜா அண்ணாமலைபுரம் பகுதிகள், பிரிவு 171, மண்டலம் 13, சென்னை"
-  },
-  "value": "₹17.94 Lakhs",
-  "tenderNo": "El.D.C.No.South/0429/2024",
-  "emdAmount": "₹17,950",
-  "startDate": "2024-02-16",
-  "endDate": "2024-05-16",
-  "status": "completed",
-  "completion": 100,
-  "category": "street-lights",
-  "description": {
-    "en": "Supply, erection, testing and commissioning of 28 numbers of 7-meter street lamp posts with LED fittings complete set at Thandavarayan Street, Loyds Avenue, MRC Nagar and various locations in Raja Annamalaipuram, Division 171, Zone 13, Chennai.",
-    "ta": "சென்னை மண்டலம் 13, பிரிவு 171, ராஜா அண்ணாமலைபுரம் பகுதியில் தண்டவராயன் தெரு, லாய்ட்ஸ் அவென்யூ, எம்.ஆர்.சி. நகர் மற்றும் பல்வேறு இடங்களில் 28 எண் 7 மீட்டர் LED தெருவிளக்கு கம்பங்கள் வழங்கல், நிறுவல், சோதனை மற்றும் இயக்கத்தில் கொண்டு வருதல்."
-  },
-  "scope": {
-    "en": [
-      "Supply of 28 Nos. 7-meter street lamp posts",
-      "Supply and installation of LED street light fittings",
-      "Testing and commissioning",
-      "Electrical infrastructure enhancement",
-      "Public street illumination improvement",
-      "Safety enhancement in residential and public areas"
-    ],
-    "ta": [
-      "28 எண் 7 மீட்டர் தெருவிளக்கு கம்பங்கள் வழங்குதல்",
-      "LED தெருவிளக்குகள் நிறுவுதல்",
-      "சோதனை மற்றும் இயக்கத்தில் கொண்டு வருதல்",
-      "மின்சார கட்டமைப்பு மேம்படுத்துதல்",
-      "பொது தெரு ஒளிவசதி மேம்படுத்துதல்",
-      "பொது மற்றும் குடியிருப்பு பகுதிகளின் பாதுகாப்பை மேம்படுத்துதல்"
-    ]
-  },
-  "technicalDetails": {
-    "lampPostHeight": "7 Meters",
-    "quantity": 28,
-    "lightType": "LED Street Light",
-    "workType": "Supply, Erection, Testing and Commissioning",
-    "completionPeriod": "3 Months"
-  },
-  "photos": [],
-  "videos": [],
-  "mapCoords": {
-    "lat": 13.0206,
-    "lng": 80.2717
-  },
-  "testimonial": {
-    "name": "Electrical Department Engineer",
-    "designation": "Project Monitoring Engineer",
-    "organization": "Greater Chennai Corporation",
-    "rating": 5,
-    "feedback": {
-      "en": "The project improved street lighting infrastructure and enhanced public safety in the Raja Annamalaipuram and MRC Nagar areas.",
-      "ta": "இந்த திட்டம் ராஜா அண்ணாமலைபுரம் மற்றும் எம்.ஆர்.சி. நகர் பகுதிகளில் தெரு ஒளிவசதியையும் பொது பாதுகாப்பையும் மேம்படுத்தியுள்ளது."
-    }
-  },
-  "featured": true
+"id": 4898,
+"name": {
+"en": "Replacement of 104 Street Lamp Posts and Supply & Erection of 8 New Lamp Posts at SIDCO Nagar",
+"ta": "சிட்கோ நகர் பகுதியில் 104 தெருவிளக்கு கம்பங்கள் மாற்றுதல் மற்றும் 8 புதிய கம்பங்கள் நிறுவுதல்"
 },
-{
-  "id": 4898,
-  "name": {
-    "en": "Replacement of 104 Street Lamp Posts and Supply & Erection of 8 New Lamp Posts at SIDCO Nagar",
-    "ta": "சிட்கோ நகர் பகுதியில் 104 தெருவிளக்கு கம்பங்கள் மாற்றுதல் மற்றும் 8 புதிய கம்பங்கள் நிறுவுதல்"
-  },
-  "client": {
-    "en": "Greater Chennai Corporation",
-    "ta": "பெருநகர சென்னை மாநகராட்சி"
-  },
-  "department": {
-    "en": "Electrical Department",
-    "ta": "மின்துறை"
-  },
-  "location": {
-    "en": "SIDCO Nagar, Division 94, Zone 8, Chennai",
-    "ta": "சிட்கோ நகர், பிரிவு 94, மண்டலம் 8, சென்னை"
-  },
-  "value": "₹47.42 Lakhs",
-  "tenderNo": "El.D.C.No.Centre/4898/2025",
-  "emdAmount": "₹47,450",
-  "startDate": "2025-11-28",
-  "endDate": "2026-04-28",
-  "status": "tender",
-  "completion": 0,
-  "category": "street-lights",
-  "description": {
-    "en": "Replacement of 104 numbers of 7-meter lamp posts and supply and erection of 8 numbers of new 7-meter lamp posts with LED fittings at SIDCO Nagar in Division 94, Zone 8, Chennai.",
-    "ta": "சென்னை மண்டலம் 8, பிரிவு 94, சிட்கோ நகர் பகுதியில் 104 எண் 7 மீட்டர் தெருவிளக்கு கம்பங்கள் மாற்றுதல் மற்றும் 8 புதிய 7 மீட்டர் LED தெருவிளக்கு கம்பங்கள் நிறுவுதல்."
-  },
-  "scope": {
-    "en": [
-      "Replacement of 104 existing 7-meter lamp posts",
-      "Supply of 8 new 7-meter lamp posts",
-      "Installation of LED street light fittings",
-      "Testing and commissioning of street lighting system",
-      "Electrical infrastructure modernization",
-      "Improved public lighting and safety"
-    ],
-    "ta": [
-      "104 பழைய 7 மீட்டர் தெருவிளக்கு கம்பங்கள் மாற்றுதல்",
-      "8 புதிய 7 மீட்டர் கம்பங்கள் வழங்குதல்",
-      "LED தெருவிளக்குகள் நிறுவுதல்",
-      "சோதனை மற்றும் இயக்கத்தில் கொண்டு வருதல்",
-      "மின்சார கட்டமைப்பு மேம்படுத்துதல்",
-      "பொது பாதுகாப்பு மற்றும் ஒளிவசதி மேம்படுத்துதல்"
-    ]
-  },
-  "technicalDetails": {
-    "lampPostHeight": "7 Meters",
-    "replacementQuantity": 104,
-    "newLampPosts": 8,
-    "totalLampPosts": 112,
-    "lightType": "LED Street Light",
-    "workType": "Replacement, Supply, Erection, Testing and Commissioning",
-    "completionPeriod": "5 Months"
-  },
-  "contractorEligibility": {
-    "class": "Greater Chennai Corporation Registered Electrical Contractor",
-    "minimumClass": "Class II and Above"
-  },
-  "photos": [],
-  "videos": [],
-  "mapCoords": {
-    "lat": 13.0904,
-    "lng": 80.2184
-  },
-  "testimonial": {
-    "name": "Superintending Engineer",
-    "designation": "Electrical Department",
-    "organization": "Greater Chennai Corporation",
-    "rating": 5,
-    "feedback": {
-      "en": "This project is intended to modernize street lighting infrastructure in SIDCO Nagar by replacing aging lamp posts and installing energy-efficient LED lighting.",
-      "ta": "சிட்கோ நகர் பகுதியில் பழைய தெருவிளக்கு கம்பங்களை மாற்றி, மின்சார சேமிப்பு LED விளக்குகள் மூலம் தெரு ஒளிவசதியை மேம்படுத்தும் திட்டமாகும்."
-    }
-  },
-  "featured": true
+"client": {
+"en": "Greater Chennai Corporation",
+"ta": "பெருநகர சென்னை மாநகராட்சி"
 },
+"department": {
+"en": "Electrical Department",
+"ta": "மின்துறை"
+},
+"location": {
+"en": "SIDCO Nagar, Division 94, Zone 8, Chennai",
+"ta": "சிட்கோ நகர், பிரிவு 94, மண்டலம் 8, சென்னை"
+},
+"value": "₹47.42 Lakhs",
+"tenderNo": "El.D.C.No.Centre/4898/2025",
+"scheme": {
+"en": "Street Lighting Improvement",
+"ta": "தெருவிளக்கு மேம்பாட்டு திட்டம்"
+},
+"startDate": "2025-11-28",
+"endDate": "2026-04-28",
+"status": "completed",
+"completion": 100,
+"category": "street-lights",
+"description": {
+"en": "Replacement of 104 lamp posts and installation of 8 new LED street lamp posts at SIDCO Nagar.",
+"ta": "சிட்கோ நகர் பகுதியில் 104 தெருவிளக்கு கம்பங்கள் மாற்றப்பட்டு 8 புதிய LED கம்பங்கள் நிறுவப்பட்ட திட்டம்."
+},
+"scope": {
+"en": [
+"104 lamp post replacements",
+"8 new lamp posts",
+"LED lighting installation",
+"Testing and commissioning"
+],
+"ta": [
+"104 விளக்கு கம்பங்கள் மாற்றுதல்",
+"8 புதிய கம்பங்கள் நிறுவுதல்",
+"LED விளக்குகள் நிறுவுதல்",
+"சோதனை மற்றும் இயக்கம்"
+]
+},
+"photos": [],
+"videos": [],
+"mapCoords": {
+"lat": null,
+"lng": null
+},
+"testimonial": null,
+"featured": true
+},
+
 {
-  "id": 2899,
-  "name": {
-    "en": "Supply and Erection of Street Lamp Posts with LED Fittings at Ganabathy Nagar",
-    "ta": "கணபதி நகர் பகுதியில் LED விளக்குகளுடன் தெருவிளக்கு கம்பங்கள் வழங்குதல் மற்றும் நிறுவுதல்"
-  },
-  "client": {
-    "en": "Greater Chennai Corporation",
-    "ta": "பெருநகர சென்னை மாநகராட்சி"
-  },
-  "department": {
-    "en": "Electrical Department",
-    "ta": "மின்துறை"
-  },
-  "location": {
-    "en": "Ganabathy Nagar 3rd Main Road, 1st, 2nd, 3rd Cross Streets, Siddi Vinayagar Street and Mosque Colony, Division 172 & 200, Zone 13 & 15, Chennai",
-    "ta": "கணபதி நகர் 3வது மெயின் ரோடு, 1, 2, 3வது குறுக்கு தெருக்கள், சித்தி விநாயகர் தெரு மற்றும் மசூதி காலனி, பிரிவு 172 & 200, மண்டலம் 13 & 15, சென்னை"
-  },
-  "value": "₹25.47 Lakhs",
-  "tenderNo": "El.D.C.No.South/2899/2025",
-  "emdAmount": "₹25,500",
-  "startDate": "2025-08-08",
-  "endDate": "2025-11-08",
-  "status": "tender",
-  "completion": 0,
-  "category": "street-lights",
-  "description": {
-    "en": "Supply of 44 Nos. of 7-meter street lamp posts and erection of 59 Nos. of 7-meter street lamp posts with LED fittings at Ganabathy Nagar and surrounding streets in Divisions 172 & 200, Zones 13 & 15.",
-    "ta": "கணபதி நகர் மற்றும் சுற்றுப்புற பகுதிகளில் 44 புதிய 7 மீட்டர் தெருவிளக்கு கம்பங்கள் வழங்குதல் மற்றும் 59 தெருவிளக்கு கம்பங்களை LED விளக்குகளுடன் நிறுவுதல்."
-  },
-  "scope": {
-    "en": [
-      "Supply of 44 Nos. 7-meter street lamp posts",
-      "Erection of 59 Nos. 7-meter street lamp posts",
-      "Supply and installation of LED street light fittings",
-      "Testing and commissioning",
-      "Associated electrical and civil works",
-      "Improvement of public street lighting infrastructure"
-    ],
-    "ta": [
-      "44 புதிய 7 மீட்டர் தெருவிளக்கு கம்பங்கள் வழங்குதல்",
-      "59 தெருவிளக்கு கம்பங்கள் நிறுவுதல்",
-      "LED தெருவிளக்குகள் வழங்குதல் மற்றும் நிறுவுதல்",
-      "சோதனை மற்றும் இயக்கத்தில் கொண்டு வருதல்",
-      "துணை மின்சார மற்றும் சிவில் பணிகள்",
-      "பொது தெரு ஒளிவசதி மேம்படுத்துதல்"
-    ]
-  },
-  "technicalDetails": {
-    "lampPostHeight": "7 Meters",
-    "newLampPostsSupply": 44,
-    "lampPostsErection": 59,
-    "totalLampPosts": 103,
-    "lightType": "LED Street Light",
-    "workType": "Supply, Erection, Testing and Commissioning",
-    "completionPeriod": "3 Months"
-  },
-  "contractorEligibility": {
-    "class": "Greater Chennai Corporation Registered Electrical Contractor",
-    "minimumClass": "Class III and Above"
-  },
-  "photos": [],
-  "videos": [],
-  "mapCoords": {
-    "lat": 12.9578,
-    "lng": 80.1954
-  },
-  "testimonial": {
-    "name": "Superintending Engineer",
-    "designation": "Electrical Department",
-    "organization": "Greater Chennai Corporation",
-    "rating": 5,
-    "feedback": {
-      "en": "The project aims to improve street lighting infrastructure and public safety through installation of modern LED-based lighting systems.",
-      "ta": "நவீன LED தெருவிளக்குகள் மூலம் பொது பாதுகாப்பையும் தெரு ஒளிவசதியையும் மேம்படுத்தும் திட்டமாகும்."
-    }
-  },
-  "featured": true
+"id": 2899,
+"name": {
+"en": "Street Lighting Project at Ganabathy Nagar",
+"ta": "கணபதி நகர் தெருவிளக்கு திட்டம்"
+},
+"client": {
+"en": "Greater Chennai Corporation",
+"ta": "பெருநகர சென்னை மாநகராட்சி"
+},
+"department": {
+"en": "Electrical Department",
+"ta": "மின்துறை"
+},
+"location": {
+"en": "Ganabathy Nagar, Division 172 & 200, Zone 13 & 15, Chennai",
+"ta": "கணபதி நகர், பிரிவு 172 & 200, மண்டலம் 13 & 15, சென்னை"
+},
+"value": "₹25.47 Lakhs",
+"tenderNo": "El.D.C.No.South/2899/2025",
+"scheme": {
+"en": "Street Lighting Infrastructure",
+"ta": "தெருவிளக்கு கட்டமைப்பு திட்டம்"
+},
+"startDate": "2025-08-08",
+"endDate": "2025-11-08",
+"status": "completed",
+"completion": 100,
+"category": "street-lights",
+"description": {
+"en": "Supply of 44 lamp posts and erection of 59 lamp posts with LED fittings at Ganabathy Nagar.",
+"ta": "கணபதி நகர் பகுதியில் 44 புதிய கம்பங்கள் மற்றும் 59 LED தெருவிளக்கு கம்பங்கள் நிறுவப்பட்ட திட்டம்."
+},
+"scope": {
+"en": [
+"44 lamp post supply",
+"59 lamp post erection",
+"LED fittings",
+"Testing and commissioning"
+],
+"ta": [
+"44 கம்பங்கள் வழங்குதல்",
+"59 கம்பங்கள் நிறுவுதல்",
+"LED விளக்குகள்",
+"சோதனை மற்றும் இயக்கம்"
+]
+},
+"photos": [],
+"videos": [],
+"mapCoords": {
+"lat": null,
+"lng": null
+},
+"testimonial": null,
+"featured": true
+},
+
+{
+"id": 548,
+"name": {
+"en": "Street Lighting Project at Kannaki Nagar Burial Ground and Millennium Park",
+"ta": "கண்ணகி நகர் மயானம் மற்றும் மில்லேனியம் பூங்கா தெருவிளக்கு திட்டம்"
+},
+"client": {
+"en": "Greater Chennai Corporation",
+"ta": "பெருநகர சென்னை மாநகராட்சி"
+},
+"department": {
+"en": "Electrical Department",
+"ta": "மின்துறை"
+},
+"location": {
+"en": "Kannaki Nagar Burial Ground, Millennium Park, Vanagaram Road, Division 86, 87 & 88, Zone 7, Chennai",
+"ta": "கண்ணகி நகர் மயானம், மில்லேனியம் பூங்கா, வானகரம் சாலை, பிரிவு 86, 87 & 88, மண்டலம் 7, சென்னை"
+},
+"value": "₹19.65 Lakhs",
+"tenderNo": "El.D.C.No.Centre/548/2025",
+"scheme": {
+"en": "Public Infrastructure Lighting",
+"ta": "பொது உள்கட்டமைப்பு விளக்கு திட்டம்"
+},
+"startDate": "2025-03-07",
+"endDate": "2025-06-07",
+"status": "completed",
+"completion": 100,
+"category": "street-lights",
+"description": {
+"en": "Supply and erection of 27 lamp posts, 2 high-mast lamp posts and 3 kiosk pillar boxes with LED fittings.",
+"ta": "27 தெருவிளக்கு கம்பங்கள், 2 உயர்மாட கம்பங்கள் மற்றும் 3 கியோஸ்க் பில்லர் பெட்டிகள் LED விளக்குகளுடன் நிறுவப்பட்ட திட்டம்."
+},
+"scope": {
+"en": [
+"27 Nos 7m lamp posts",
+"2 Nos 9.5m lamp posts",
+"LED fittings",
+"3 kiosk pillar boxes",
+"Testing and commissioning"
+],
+"ta": [
+"27 எண் 7 மீட்டர் கம்பங்கள்",
+"2 எண் 9.5 மீட்டர் கம்பங்கள்",
+"LED விளக்குகள்",
+"3 கியோஸ்க் பெட்டிகள்",
+"சோதனை மற்றும் இயக்கம்"
+]
+},
+"photos": [],
+"videos": [],
+"mapCoords": {
+"lat": null,
+"lng": null
+},
+"testimonial": null,
+"featured": true
+},
+
+{
+"id": 429,
+"name": {
+"en": "28 Street Lamp Posts at MRC Nagar",
+"ta": "எம்.ஆர்.சி. நகர் 28 தெருவிளக்கு கம்பங்கள்"
+},
+"client": {
+"en": "Greater Chennai Corporation",
+"ta": "பெருநகர சென்னை மாநகராட்சி"
+},
+"department": {
+"en": "Electrical Department",
+"ta": "மின்துறை"
+},
+"location": {
+"en": "MRC Nagar, Raja Annamalaipuram, Zone 13, Chennai",
+"ta": "எம்.ஆர்.சி. நகர், ராஜா அண்ணாமலைபுரம், மண்டலம் 13, சென்னை"
+},
+"value": "₹17.94 Lakhs",
+"tenderNo": "El.D.C.No.South/0429/2024",
+"scheme": {
+"en": "Street Lighting Infrastructure",
+"ta": "தெருவிளக்கு கட்டமைப்பு திட்டம்"
+},
+"startDate": "2024-02-16",
+"endDate": "2024-05-16",
+"status": "completed",
+"completion": 100,
+"category": "street-lights",
+"description": {
+"en": "Installation of 28 street lamp posts with LED fittings at MRC Nagar and Raja Annamalaipuram.",
+"ta": "எம்.ஆர்.சி. நகர் மற்றும் ராஜா அண்ணாமலைபுரம் பகுதிகளில் 28 LED தெருவிளக்கு கம்பங்கள் நிறுவப்பட்ட திட்டம்."
+},
+"scope": {
+"en": [
+"28 lamp posts",
+"LED fittings",
+"Testing and commissioning"
+],
+"ta": [
+"28 விளக்கு கம்பங்கள்",
+"LED விளக்குகள்",
+"சோதனை மற்றும் இயக்கம்"
+]
+},
+"photos": [],
+"videos": [],
+"mapCoords": {
+"lat": null,
+"lng": null
+},
+"testimonial": null,
+"featured": true
+},
+
+{
+"id": 107,
+"name": {
+"en": "79 Street Lamp Posts at Thayar Shakib Street and Ellis Road",
+"ta": "தாயார் ஷகிப் தெரு மற்றும் எலிஸ் சாலையில் 79 தெருவிளக்கு கம்பங்கள்"
+},
+"client": {
+"en": "Greater Chennai Corporation",
+"ta": "பெருநகர சென்னை மாநகராட்சி"
+},
+"department": {
+"en": "Electrical Department",
+"ta": "மின்துறை"
+},
+"location": {
+"en": "Division 59 & 63, Zone 5, Chennai",
+"ta": "பிரிவு 59 & 63, மண்டலம் 5, சென்னை"
+},
+"value": "₹33.10 Lakhs",
+"tenderNo": "El.D.C.No.North/107/2023",
+"scheme": {
+"en": "NIRBHAYA Scheme",
+"ta": "நிர்பயா திட்டம்"
+},
+"startDate": "2023-01-25",
+"endDate": "2023-06-25",
+"status": "completed",
+"completion": 100,
+"category": "street-lights",
+"description": {
+"en": "Installation of 79 LED street lamp posts under the NIRBHAYA Scheme.",
+"ta": "நிர்பயா திட்டத்தின் கீழ் 79 LED தெருவிளக்கு கம்பங்கள் நிறுவப்பட்ட திட்டம்."
+},
+"scope": {
+"en": [
+"79 lamp posts",
+"LED fittings",
+"Testing and commissioning"
+],
+"ta": [
+"79 விளக்கு கம்பங்கள்",
+"LED விளக்குகள்",
+"சோதனை மற்றும் இயக்கம்"
+]
+},
+"photos": [],
+"videos": [],
+"mapCoords": {
+"lat": null,
+"lng": null
+},
+"testimonial": null,
+"featured": true
 }
 ]
