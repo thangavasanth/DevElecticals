@@ -39,7 +39,7 @@ const ContactPage = (() => {
                 <div class="contact-card-icon"><i class="fas fa-phone-alt"></i></div>
                 <div>
                   <h4>${lang === 'ta' ? 'தொலைபேசி' : 'Phone'}</h4>
-                  ${company.phone.map(p => `<p><a href="tel:${p.replace(/[^+\\d]/g, '')}">${p}</a></p>`).join('')}
+                  ${company.phone.map(p => `<p><a href="tel:${p.replace(/[^+0-9]/g, '')}">${p}</a></p>`).join('')}
                 </div>
               </div>
 
