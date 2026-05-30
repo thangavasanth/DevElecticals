@@ -2,14 +2,18 @@
   "company": {
     "name": "DEV ELECTRICALS",
     "gst": "33GIGPS1735A1ZJ",
-    "location": {
-      "en": "Velachery, Chennai, Tamil Nadu, India",
-      "ta": "வேளச்சேரி, சென்னை, தமிழ்நாடு, இந்தியா"
+    "address": {
+      "en": "22/7 Mathiyazhagan Street, Nehru Nagar, Checkpost, Chennai – 600 042, Tamil Nadu, India",
+      "ta": "22/7 மதியழகன் தெரு, நேரு நகர், செக்போஸ்ட், சென்னை – 600 042, தமிழ்நாடு, இந்தியா"
     },
-    "phone": ["+919176112696"],
-    "email": "info@develectricals.com",
-    "mapCoords": { "lat": 12.9815, "lng": 80.2180 },
-    "mapLink": "https://maps.google.com/?q=12.9815,80.2180"
+    "location": {
+      "en": "Chennai, Tamil Nadu, India",
+      "ta": "சென்னை, தமிழ்நாடு, இந்தியா"
+    },
+    "phone": ["+91 91761 12696"],
+    "email": "nrsendhilkumdar@gmail.com",
+    "mapCoords": { "lat": 13.0674, "lng": 80.2376 },
+    "mapLink": "https://maps.google.com/?q=13.0674,80.2376"
   },
   "tagline": {
     "en": "Powering Infrastructure. Illuminating Communities.",

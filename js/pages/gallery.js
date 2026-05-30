@@ -55,7 +55,7 @@ const GalleryPage = (() => {
       const title = t(item.title);
       return `
         <div class="gallery-item reveal stagger-${(i % 3) + 1}" data-category="${item.category}" data-index="${i}">
-          <div class="gallery-placeholder"><i class="fas fa-${item.type === 'video' ? 'video' : 'image'}"></i></div>
+          <img src="assets/images/logo.png" alt="${title}" style="width:100%;height:100%;object-fit:cover;border-radius:var(--radius-md);">
           <div class="gallery-overlay"><p>${title}</p></div>
         </div>
       `;

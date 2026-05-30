@@ -58,6 +58,7 @@ const I18n = (() => {
       const key = el.getAttribute('data-i18n-key');
       if (key === 'tagline') el.textContent = t(contentData.tagline);
       if (key === 'location') el.textContent = t(contentData.company.location);
+      if (key === 'address') el.textContent = t(contentData.company.address);
     });
     // Update SEO
     const title = t(contentData.seo.title);

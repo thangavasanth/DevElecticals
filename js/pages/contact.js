@@ -31,7 +31,7 @@ const ContactPage = (() => {
                 <div class="contact-card-icon"><i class="fas fa-map-marker-alt"></i></div>
                 <div>
                   <h4>${lang === 'ta' ? 'முகவரி' : 'Address'}</h4>
-                  <p>${t(company.location)}</p>
+                  <p>${t(company.address)}</p>
                 </div>
               </div>
 
